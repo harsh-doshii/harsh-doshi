@@ -2,6 +2,7 @@ import Head from 'next/head'
 import Animated from '../components/Animated'
 import Features from '../components/Features'
 import Features2 from '../components/Features2'
+import Features3 from '../components/Features3'
 import Header from '../components/Header'
 import Hero from '../components/Hero'
 export default function Home() {
@@ -21,6 +22,7 @@ export default function Home() {
       {/* <Header /> */}
       <Features />
       <Features2 />
+      <Features3 />
       {/* Info1 */}
       {/* Info2 */}
     </div>
