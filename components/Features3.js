@@ -1,6 +1,6 @@
 function Features3() {
     return (
-        <div className="mb-10">
+        <div className="mb-10" id="Projects">
             <div className="text-center">
         <p class="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-gray-900 dark:text-white font-fancy sm:text-4xl">
             My Projects

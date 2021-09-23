@@ -7,7 +7,7 @@ function Features2() {
     return (
         <div>
             
-<div class="container mx-auto px-6 p-6 bg-white dark:bg-gray-800 mt-4">
+<div class="container mx-auto px-6 p-6 bg-white dark:bg-gray-800 mt-4" id="Features2">
     <div class="mb-16 text-center">
         <p class="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-gray-900 dark:text-white font-fancy sm:text-4xl">
             My Research Interests
