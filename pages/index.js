@@ -11,7 +11,7 @@ export default function Home() {
     
     <div className="overflow-x-hidden">
       <Head>
-        <title>Create Next App</title>
+        <title>Harsh Doshi</title>
         <link rel="icon" href="/favicon.ico" />
         <link href="https://fonts.googleapis.com/css2?family=Kaisei+HarunoUmi:wght@500&display=swap" rel="stylesheet"></link>
         <link href="https://fonts.googleapis.com/css2?family=Share&display=swap" rel="stylesheet"></link>
