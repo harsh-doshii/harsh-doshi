@@ -8,7 +8,7 @@ function Features3() {
         </div>
 <div class="sm:flex flex-wrap justify-center items-center text-center gap-8">
         
-    <div class="w-full sm:w-1/2 md:w-1/2 lg:w-1/4 px-4 py-4 bg-white mt-6  shadow-lg rounded-lg dark:bg-gray-800">
+    <div class="w-full sm:w-1/2 md:w-1/2 lg:w-1/4 px-4 py-4 bg-white mt-6  shadow-lg rounded-lg dark:bg-gray-800 font-fancy3">
         <div class="flex-shrink-0">
             <div class="flex items-center mx-auto justify-center h-12 w-12 rounded-md bg-indigo-500 text-white">
                 <svg width="20" height="20" fill="currentColor" class="h-6 w-6" viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg">
@@ -20,7 +20,7 @@ function Features3() {
         <h3 class="text-2xl sm:text-xl text-gray-700 font-semibold dark:text-white py-4">
         LinkedIN Header Generator
         </h3>
-        <p class="text-md  text-gray-500 dark:text-gray-300 py-4">
+        <p class="text-md py-4 font-fancy3">
         Made a web app that one can use to create aesthetic headers for their LinkedIN profile to showcase all the tech stack that one knows about.
 It serves the same function as 'Skills/Technical Profiency" part of a resume. Used KonvaJS library to customize HTML Canvas.
         </p>
@@ -37,7 +37,7 @@ It serves the same function as 'Skills/Technical Profiency" part of a resume. Us
         <h3 class="text-2xl sm:text-xl text-gray-700 font-semibold dark:text-white py-4">
         Prideobot
         </h3>
-        <p class="text-md text-gray-500 dark:text-gray-300 py-4">
+        <p class="text-md dark:text-gray-300 py-4 font-fancy3">
         Prideobot is a simple and intuitive choice-driven chatbot that aims to raise awareness about the LGBTQ community at my campus.
         Built the frontend using HTML. CSS, Bootstrap and Vanilla JS. Used PHP for backend and Heroku to deploy.    
         </p>
@@ -54,7 +54,7 @@ It serves the same function as 'Skills/Technical Profiency" part of a resume. Us
         <h3 class="text-2xl sm:text-xl text-gray-700 font-semibold dark:text-white py-4">
             Stylometric Analysis
         </h3>
-        <p class="text-md  text-gray-500 dark:text-gray-300 py-4">
+        <p class="text-md dark:text-gray-300 py-4 font-fancy3">
         Analyzed the writing style of different authors, took a corpus of books written by different authors, the idea
     is that different authors write in different manners. Using surface level, lexical, and syntactic features I analyzed the writing
     styles of different authors.

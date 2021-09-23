@@ -10,7 +10,7 @@ function Features() {
                 <div class="px-8 md:px-80">
                     <div class="mb-12 lg:mb-0 pb-12 lg:pb-0 border-b lg:border-b-0">
                         <p class=" leading-loose md:text-xl dark:text-gray-300 text-center font-fancy3">
-                            Hi, I am Harsh Doshi and I am Pre-Final year undergrad student at BITS Pilani Goa Campus. I'm pusuing 
+                            Hi, I am Harsh Doshi and I am Pre-Final year student at BITS Pilani Goa Campus. I'm pursuing 
                             a dual degree course with my B.E. focused in Computer Science. I am an upcoming Software Engineering
                             Intern at Salesforce (Hyderabad, India) for Summer 2022.
                         </p>

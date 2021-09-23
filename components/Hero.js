@@ -11,7 +11,7 @@ function Hero() {
             </span>
         </h2>
         <p class="md:text-xl mt-4 max-w-80 mx-auto text-indigo-500 font-fancy">
-        Pre-Final year undergrad student at BITS Pilani Goa Campus
+        Pre-Final year undergrad at BITS Pilani Goa Campus
         </p>
     </div>
 </div>

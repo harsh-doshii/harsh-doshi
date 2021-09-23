@@ -1,6 +1,9 @@
 import React from 'react'
 
 function Features2() {
+    const handleClick = () => {
+        console.log("clicked");
+      };
     return (
         <div>
             
@@ -9,6 +12,9 @@ function Features2() {
         <p class="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-gray-900 dark:text-white font-fancy sm:text-4xl">
             My Research Interests
         </p>
+        <button onClick={handleClick}>
+            Hi
+        </button>
         <ul className="mt-5">
             <li className="py-3">1. Natural Language Processing</li>
             <li className="py-3">2. Artificial Intelligence</li>

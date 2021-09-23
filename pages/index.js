@@ -5,10 +5,11 @@ import Features2 from '../components/Features2'
 import Features3 from '../components/Features3'
 import Header from '../components/Header'
 import Hero from '../components/Hero'
+import  Navbar  from '../components/Navbar'
 export default function Home() {
   return (
     
-    <div className="">
+    <div className="-p-15">
       <Head>
         <title>Create Next App</title>
         <link rel="icon" href="/favicon.ico" />
@@ -18,6 +19,7 @@ export default function Home() {
       </Head>
       {/* <Header /> */}
       {/* Banner */}
+      <Header />
       <Hero />
       {/* <Header /> */}
       <Features />
