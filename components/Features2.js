@@ -13,10 +13,10 @@ function Features2() {
             My Research Interests
         </p>
         <ul className="mt-5">
-            <li className="py-3">1. Natural Language Processing</li>
-            <li className="py-3">2. Artificial Intelligence</li>
-            <li className="py-3">3. Computational Linguistics</li>
-            <li className="py-3">4. Data Science</li>
+            <li className="py-3 font-fancy3">1. Natural Language Processing</li>
+            <li className="py-3 font-fancy3">2. Artificial Intelligence</li>
+            <li className="py-3 font-fancy3">3. Computational Linguistics</li>
+            <li className="py-3 font-fancy3">4. Data Science</li>
         </ul>
     </div>
     
