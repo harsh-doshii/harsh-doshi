@@ -9,7 +9,7 @@ import  Navbar  from '../components/Navbar'
 export default function Home() {
   return (
     
-    <div className="-p-15">
+    <div className="overflow-x-hidden">
       <Head>
         <title>Create Next App</title>
         <link rel="icon" href="/favicon.ico" />
